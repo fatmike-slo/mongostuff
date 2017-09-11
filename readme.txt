@@ -1,1 +1,1 @@
-Practicing mongodb from the learnyoumongo platform. Great stuff so far!
+Practicing mongodb from the learnyoumongo platform. Great stuff!
